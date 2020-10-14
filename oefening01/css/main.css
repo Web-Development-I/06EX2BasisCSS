@@ -1,0 +1,41 @@
+/* Imports */
+@import url("reset.css");
+
+/* Algemeen*/
+/*
+de pagina heeft volgend lettertype:'Courier New', Courier, monospace;
+achtergrond kleur:  #fafafa;
+tekst kleur: #5e6461;
+de heading1 heeft volgende eigenschappen:
+    font-weight: 700 - lettergrootte: 1.2em - een regelhoogte: 2em;
+*/
+
+
+
+/* Navigatie */
+/*
+een gestipte lijn onder de navigatie met kleur: #bfc2bf; 
+    TIP: een gestipte lijn is 'dashed' en een lijn onderaan is eigenlijk een 'border' onderaan.
+lettergrootte: 1.2em - een regelhoogte: 2em;
+de links zijn niet onderstreept, zijn vet en kleur:  #979797;
+bij het 'hoveren' verandert de kleur van de links naar  #636b67;
+de link naar de actieve pagina (<a>Link</a>) moet zwarte achtergrond hebben en de tekst wit 
+    TIP: de actieve pagina heeft geen href attribuut. 
+*/
+
+
+
+/* Main content */
+/*
+    de regelhoogte in de main is 1.2em;
+    alle benadrukte tekst (em) is rood.
+*/
+
+
+
+/* Footer */
+/*
+achtergrond kleur is rood en tekst is wit
+alle headings hebben en regelhoogte van 1.5em en worden bold weergegeven
+alle links zijn niet onderlijnd en de tekstkleur is wit
+*/
